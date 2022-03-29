@@ -1,0 +1,28 @@
+.photo{
+    border: solid red 5px;
+}
+
+h1{
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2, h3{
+    font-weight: bold;
+    color:green;
+}
+
+p, ol, ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes{
+    background-color: rgba(100, 200, 50, 0.3);
+    width: 600px;
+    font-size: 40px;
+}
+
+#main{
+    color: orange;
+    font-size: 54px;
+}
